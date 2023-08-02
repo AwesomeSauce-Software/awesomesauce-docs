@@ -1,3 +1,5 @@
-# Summary
+# AwesomeSauce Software
 
-- [Chapter 1](./chapter_1.md)
+- [Gooftuber](./gooftuber.md)
+  - Editor
+    - [Syncing to Studio](./gooftuber/editor/sync.md)
