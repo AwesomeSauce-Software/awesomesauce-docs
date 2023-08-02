@@ -1,5 +1,5 @@
 [book]
-authors = []
+authors = ["ptgms", "BitRapture", "ModderOwls"]
 language = "en"
 multilingual = false
 src = "src"
