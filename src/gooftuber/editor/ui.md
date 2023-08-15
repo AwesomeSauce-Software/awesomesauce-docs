@@ -3,10 +3,10 @@
 Welcome to Gooftuber Editor, the light and compact companion software to Gooftuber Studio. It is fully integrated with all of its aspects and API, let's give you a tour around!
 
 ## UI on first start
-![New UI](UI%20New.png)
+![New UI](assets/UI%20New.png)
 
 ## UI when Image exists
-![New UI](UI%20Exist.png)
+![New UI](assets/UI%20Exist.png)
 
 ## The rundown
 
