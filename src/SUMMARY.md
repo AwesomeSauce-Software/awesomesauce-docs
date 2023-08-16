@@ -7,3 +7,5 @@
     - [Palettes](./gooftuber/editor/palette.md)
   - [Server](./gooftuber/server/main.md)
   - [Studio](./gooftuber/studio.main.md)
+- [Project E](./project-e.md)
+  - [What???](./project-e/what.md)
