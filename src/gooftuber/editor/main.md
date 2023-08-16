@@ -24,3 +24,6 @@ For the latest CI/CD Build from GitHub, check out the [Releases](https://github.
 For a general Guide for how to use, check out the [UI page](ui.md).
 
 For a Guide of how to use the Sync Feature, check out the [Sync page](sync.md).
+
+For a Guide of how to use the Palettes Feature, check out the [Palettes page](palette.md).
+
