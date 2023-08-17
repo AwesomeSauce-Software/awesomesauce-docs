@@ -27,3 +27,4 @@ For a Guide of how to use the Sync Feature, check out the [Sync page](sync.md).
 
 For a Guide of how to use the Palettes Feature, check out the [Palettes page](palette.md).
 
+For seeing what's next for Gooftuber Editor, check out the [Future page](future.md).
