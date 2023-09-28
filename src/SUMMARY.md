@@ -10,3 +10,4 @@
   - [Studio](./gooftuber/studio.main.md)
 - [Project E](./project-e.md)
   - [What???](./project-e/what.md)
+- [Awesome Launcher](./awesomelauncher/main.md)
